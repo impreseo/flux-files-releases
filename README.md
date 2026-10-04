@@ -1,2 +1,3 @@
-# flux-files-releases
-Official release builds, installers, updates, and release information for Flux Files — the fast, local, private, and simple Windows file manager by QUELRAVO.
+Flux Files is a proprietary software product developed under QUELRAVO.  
+This repository contains official release builds and release information for Flux Files. The source code is maintained in a private repository and is not included here.  
+© 2026 QUELRAVO. All rights reserved.

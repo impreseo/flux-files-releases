@@ -2,112 +2,110 @@
 
 **FAST. LOCAL. PRIVATE. SIMPLE.**
 
-Flux Files 1.0.0 is the official stable Windows desktop file manager developed by **QUELRAVO**. Engineered for pure speed, local privacy, and daily-driver reliability.
+---
+
+## Flux Files 1.0.0
+*Official Stable Windows Release by **QUELRAVO**.*
+
+Flux Files is a high-performance desktop file manager engineered from the ground up for Windows. Designed for users who demand instant responsiveness, airtight privacy, and built-in professional utilities, Flux Files eliminates the sluggishness and cloud lock-in of traditional file managers.
+
+![Flux Files Workspace](assets/screenshots/explorer.png)
 
 ---
 
-![Flux Files Explorer](./assets/screenshots/explorer.png)
+## Download Flux Files 1.0.0
 
----
+### Windows Installer (Recommended)
+Complete Windows installer with Start Menu shortcuts and shell integration.
+- 📦 **[Download Flux-Files-1.0.0-Setup.exe](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Setup.exe)** *(99.74 MB)*
 
-## Downloads (v1.0.0 Stable)
+### Portable Version
+Zero-installation standalone executable. Run immediately from local storage or USB drives.
+- 🚀 **[Download Flux-Files-1.0.0-Portable.exe](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Portable.exe)** *(99.44 MB)*
 
-| Distribution | Download | Details |
-|---|---|---|
-| **Windows Installer** | [**Flux-Files-1.0.0-Setup.exe**](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Setup.exe) | Standard NSIS installer, Start Menu & Desktop shortcuts, clean uninstall (~99 MB) |
-| **Standalone Portable** | [**Flux-Files-1.0.0-Portable.exe**](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Portable.exe) | Zero installation required. Run directly from internal storage or USB flash drives (~99 MB) |
-| **Integrity Checksums** | [**SHA256SUMS.txt**](./SHA256SUMS.txt) | Cryptographic SHA-256 verification hashes for all distribution binaries |
+### Cryptographic Checksums (SHA-256)
+Verify download integrity against the official checksums:
+- 🛡️ **[SHA256SUMS.txt](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/SHA256SUMS.txt)**
 
----
-
-## Why Flux Files?
-
-Traditional file explorers are often bogged down by cloud synchronizers, background telemetry, sluggish context menus, and missing preview decoders. Flux Files is built on an uncompromising local-first architecture:
-
-- ⚡ **Blazing Performance**: 60 FPS virtualized scrolling, instant sorting, and sub-millisecond directory caching.
-- 🔒 **100% Local & Private**: Zero analytics, zero cloud accounts, and zero telemetry pings. Runs completely offline.
-- 🗂️ **8 Explorer View Modes**: Details, List, Compact Grid, Medium, Large, Extra Large, Gallery Carousel, and Miller Columns.
-- 📑 **Tabs & Dual Pane**: Browser-grade tab strip, pinned tabs, and side-by-side Dual-Pane browsing with one-key cross-pane transfers.
-- 👁️ **Universal Viewer Engine**: Native instant previewing for 50+ formats—Markdown, PDF, JSON, CSV, 3D meshes (OBJ/STL/GLTF), Fonts, Audio waveforms, Video, and Hex.
-- ✏️ **Built-In Atomic Editors**: Edit text, code, live split Markdown, JSON, and CSV safely with crash-proof atomic writes.
-- 📦 **Archive Studio**: Create, inspect virtually, extract, and password-protect ZIP, 7Z, and TAR archives with AES-256 encryption.
-- 🔍 **Incident-Resistant Local Search**: Parallel per-drive search engine with bounded memory safety budgets (50k items / 25 MB cap) to eliminate UI freezes.
-- 🛠️ **Integrated Power Tools**: Multi-regex Batch Renamer, SHA-256 Duplicate Finder, Storage Breakdown treemaps, and Cryptographic Hash Calculator.
-- 🪟 **Deep Windows Subsystem**: Real-time fixed drive and dynamic USB detection, Windows Recycle Bin COM integration, extended MAX_PATH support, and OLE drag-and-drop.
-
----
-
-## Visual Tour
-
-### Fast Everywhere Search
-Search across all mounted drives simultaneously with instant filtering, extension matching (`ext:pdf`), format categorization (`type:image`), and size thresholds (`size:>100MB`).
-
-![Everywhere Search](./assets/screenshots/search.png)
-
----
-
-### Universal In-App Inspection & Previews
-Preview Markdown, multi-page PDFs, JSON trees, CSV data grids, typography font waterfalls, 3D CAD meshes, and binary hex dumps directly inside the application by pressing `Space`.
-
-![Universal Viewer](./assets/screenshots/viewer.png)
-
----
-
-### Live Split-View Markdown & Code Editor
-Edit configuration files, source code, and Markdown documents with synchronized live preview and atomic crash-proof disk saving.
-
-![Live Markdown Editor](./assets/screenshots/editor.png)
-
----
-
-### Dual-Pane & Multi-Tab Workspaces
-Browse two directories side-by-side with independent view modes, folder memory, and fast cross-pane transfers (`F5` copy, `F6` move).
-
-![Dual Pane Workspace](./assets/screenshots/workspace.png)
-
----
-
-### Deep Customization & Privacy Controls
-Choose between 5 engineered theme presets (Flux Dark Slate, Flux Light, Slate, Graphite, System Sync), 3 ergonomic density modes, and rebind any keyboard shortcut.
-
-![Settings Panel](./assets/screenshots/settings.png)
-
----
-
-## Cryptographic Verification
-
-Verify your downloaded binary using PowerShell:
-
-```powershell
-Get-FileHash Flux-Files-1.0.0-Setup.exe -Algorithm SHA256
-Get-FileHash Flux-Files-1.0.0-Portable.exe -Algorithm SHA256
-```
-
-Official SHA-256 Checksums:
 ```text
-7694f82d2857767e366ebf91cc6169f1066d2e73a58dd9b75ff9e20ac190a220  Flux-Files-1.0.0-Portable.exe
-d28c85bcc5a7a12802d8872eb61c6d6e507e1e668e3ea2940692088df712b292  Flux-Files-1.0.0-Setup.exe
+0059ca4772552f8fd554e56dab40b810bcb786607145ea52b85d78fb9cca0582  Flux-Files-1.0.0-Setup.exe
+4cd9c174947f8ae264e7cd7c94575fcce9390812273f69f80043cdcca3e88be5  Flux-Files-1.0.0-Portable.exe
 ```
 
 ---
 
-## Documentation & Help
-- [Quick Start Guide](./docs/QUICK-START.md) — Get up and running in 60 seconds.
-- [Privacy Policy](./docs/PRIVACY.md) — Our local-first privacy commitments.
-- [Changelog](./CHANGELOG.md) — Version history and release notes.
+## Core Capabilities
+
+### ⚡ Blazing Fast Explorer
+- **8 Layout Engines**: Details, List, Compact Grid, Medium Icons, Large Icons, Extra Large Icons, Gallery View (media carousel with filmstrip), and Miller Column View.
+- **Virtualized Rendering**: Handles directories containing tens of thousands of items at a silky 60 FPS.
+- **Interactive Breadcrumbs**: Clickable directory tokens with sibling dropdown menus, plus instant `Ctrl+L` direct path entry.
+
+### 🔍 Incident-Resistant Search Engine
+![Everywhere Search](assets/screenshots/search.png)
+- **Instant In-Folder Filter**: Type in the search box (`Ctrl+F`) for instantaneous memory filtering.
+- **Everywhere Global Search**: Multi-drive SQLite-backed indexed search (`Ctrl+Shift+F`) across all mounted volumes.
+- **Syntax Operators**: Precise filtering with `ext:pdf`, `type:image`, `size:>100MB`, and wildcard expressions.
+
+### 👁️ Universal In-App File Viewers
+![Markdown Viewer](assets/screenshots/viewer.png)
+Inspect over 50 formats immediately with **Spacebar** without launching heavy third-party software:
+- **Documents & Code**: GitHub Flavored Markdown, syntax-highlighted code (TS, JS, Python, Rust, Go, C/C++), line numbers, and PDF multi-page viewing.
+- **Data & Tables**: Collapsible JSON tree explorer and virtualized CSV/TSV spreadsheet data grid.
+- **3D & Vector CAD**: Interactive WebGL mesh orbit/pan/zoom (OBJ, STL, GLTF, GLB) and 2D DXF CAD wireframes.
+- **Typography & Forensic**: Waterfall font specimen preview (TTF, OTF, WOFF) and 16-byte aligned binary Hexadecimal viewer.
+
+### ✍️ Integrated Atomic Editors
+![Live Markdown Editor](assets/screenshots/editor.png)
+- In-place text and source code editing with find and replace (`Ctrl+F`).
+- Live split-pane Markdown editor with synchronized HTML preview.
+- **Atomic Safe Writes**: Writes to temporary staging files before replacing on disk, preventing file corruption during power failures.
+
+### 📦 Virtual Archive Studio
+- Browse inside ZIP, 7Z, TAR, and GZ archives as virtual folders without unpacking.
+- Multi-threaded archive extraction with collision handling (Prompt, Overwrite, Skip).
+- Create compressed archives with selectable compression levels (Store, Fast, Normal, Maximum).
+
+### 🪟 Multitasking Workspaces & Dual Pane
+![Dual Pane Workspace](assets/screenshots/workspace.png)
+- Multi-tab navigation with pinned tabs and session restoration.
+- Side-by-side **Dual-Pane Split View** (`Ctrl+Alt+2`) for seamless drag-and-drop transfers between directories.
+
+### 🛠️ Built-In Power Tools
+![Power Tools](assets/screenshots/tools.png)
+- **Batch Renamer**: Mass renaming tool with find/replace, prefixes, suffixes, case conversion, and numbering.
+- **Storage Analyzer**: Visual volume capacity breakdown to identify disk hogs.
+- **Duplicate Finder**: Multi-stage byte and SHA-256 duplicate identification.
+- **Cryptographic Hashes**: On-demand calculation of MD5, SHA-1, and SHA-256 checksums with match verification.
+
+### 🛡️ 100% Local-First Privacy Guarantee
+- **Zero Cloud Dependencies**: No user accounts, no subscriptions, no cloud syncing.
+- **Zero Telemetry**: No analytics beacons, no path snooping, no diagnostic tracking.
+- **Air-Gapped Ready**: Runs identically with or without an active internet connection.
+
+---
+
+## Documentation
+
+- 🚀 [**Quick Start Guide**](docs/QUICK-START.md) — 10-step onboarding visual guide.
+- 📖 [**Full User Handbook**](docs/FLUX-FILES-USER-HANDBOOK.md) — Comprehensive 20-chapter manual.
+- ⌨️ [**Keyboard Shortcuts**](docs/SHORTCUTS.md) — Master accelerator cheat-sheet.
+- 🛡️ [**Privacy & Security Architecture**](docs/PRIVACY.md) — Local-first verification details.
+- 📋 [**Release Changelog**](CHANGELOG.md) — Version release notes.
 
 ---
 
 ## System Requirements
-- **OS**: Windows 10 (64-bit) or Windows 11 (64-bit)
-- **CPU**: Intel Core i3 / AMD Ryzen 3 or higher
-- **RAM**: 4 GB minimum (8 GB recommended for 3D/4K media workflows)
-- **Disk**: 250 MB free space
+
+- **Operating System**: Windows 10 or Windows 11 (64-bit)
+- **Processor**: 64-bit Intel, AMD, or compatible processor
+- **Memory**: 4 GB RAM minimum (8 GB recommended)
+- **Storage**: 250 MB available disk space
 
 ---
 
-## Attribution & Copyright
+## Publisher & Support
 
-Flux Files is proprietary software developed by **QUELRAVO**.  
-*Copyright © 2026 QUELRAVO. All rights reserved.*  
-*Fast. Local. Private. Simple.*
+Published by **QUELRAVO**.  
+*Official Release Repository*: [https://github.com/impreseo/flux-files-releases](https://github.com/impreseo/flux-files-releases)  
+Copyright © 2026 **QUELRAVO**. All rights reserved.

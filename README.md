@@ -41,8 +41,8 @@ A focused Windows file manager for people who want more control over their files
 
 | Package | Filename | Size | SHA-256 Checksum | Download |
 |---|---|---|---|---|
-| **Windows Installer** | `Flux-Files-1.0.0-Setup.exe` | 99.74 MB | `0059ca4772552f8fd554e56dab40b810bcb786607145ea52b85d78fb9cca0582` | [Download Installer](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Setup.exe) |
-| **Standalone Portable** | `Flux-Files-1.0.0-Portable.exe` | 99.44 MB | `4cd9c174947f8ae264e7cd7c94575fcce9390812273f69f80043cdcca3e88be5` | [Download Portable](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Portable.exe) |
+| **Windows Installer** | `Flux-Files-1.0.0-Setup.exe` | 99.74 MB | `1b5ff297d6fdc64fbaa90df01f508fa6428722a9ecf715d78958158e765677a3` | [Download Installer](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Setup.exe) |
+| **Standalone Portable** | `Flux-Files-1.0.0-Portable.exe` | 99.44 MB | `aa1613cff43c1979c13f5929f207a59b465b1bae808fa2b4da8252cb6915dd33` | [Download Portable](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/Flux-Files-1.0.0-Portable.exe) |
 | **Integrity Checksums** | `SHA256SUMS.txt` | 189 B | `140b5776cbddce2e98e64c58560af137bf43878cf96e9098c3962ea59a7c0925` | [Download Hashes](https://github.com/impreseo/flux-files-releases/releases/download/v1.0.0/SHA256SUMS.txt) |
 
 👉 **Official GitHub Release Page**: **[Flux Files v1.0.0 Release](https://github.com/impreseo/flux-files-releases/releases/tag/v1.0.0)**
@@ -63,8 +63,8 @@ Get-FileHash -Algorithm SHA256 .\Flux-Files-1.0.0-Portable.exe
 
 Expected Hashes:
 ```text
-0059ca4772552f8fd554e56dab40b810bcb786607145ea52b85d78fb9cca0582  Flux-Files-1.0.0-Setup.exe
-4cd9c174947f8ae264e7cd7c94575fcce9390812273f69f80043cdcca3e88be5  Flux-Files-1.0.0-Portable.exe
+1b5ff297d6fdc64fbaa90df01f508fa6428722a9ecf715d78958158e765677a3  Flux-Files-1.0.0-Setup.exe
+aa1613cff43c1979c13f5929f207a59b465b1bae808fa2b4da8252cb6915dd33  Flux-Files-1.0.0-Portable.exe
 ```
 
 ---

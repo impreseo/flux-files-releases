@@ -1,407 +1,162 @@
-# Flux Files v1.0.0 — Public Image Index
+# Flux Files v1.0.0 — Documentation Image Index
 
 **Publisher**: QUELRAVO  
 **Product**: Flux Files  
 **Motto**: Fast. Local. Private. Simple.  
 **Application Version**: v1.0.0 (Production)  
-**Total Cataloged Public Images**: 66  
+**Total Cataloged Images**: 71  
 
 ---
 
-## Public Image Index by Category
-
-### Category: Archives\archives-browser.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| archives-browser.png | browser | archives\archives-browser.png | Handbook |
-
-### Category: Archives\archives-create.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| archives-create.png | create | archives\archives-create.png | Handbook |
-
-### Category: Archives\archives-extract.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| archives-extract.png | extract | archives\archives-extract.png | Handbook |
-
-### Category: Editors\editor-code.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-code.png | code | editors\editor-code.png | Handbook |
-
-### Category: Editors\editor-csv.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-csv.png | csv | editors\editor-csv.png | Handbook |
-
-### Category: Editors\editor-dirty-state.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-dirty-state.png | dirty state | editors\editor-dirty-state.png | Handbook |
-
-### Category: Editors\editor-json.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-json.png | json | editors\editor-json.png | Handbook |
-
-### Category: Editors\editor-markdown.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-markdown.png | markdown | editors\editor-markdown.png | Handbook |
-
-### Category: Editors\editor-text.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| editor-text.png | text | editors\editor-text.png | Handbook |
-
-### Category: Explorer\explorer-details-view.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| explorer-details-view.png | details view | explorer\explorer-details-view.png | Handbook |
-
-### Category: Explorer\explorer-gallery-view.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| explorer-gallery-view.png | gallery view | explorer\explorer-gallery-view.png | Handbook |
-
-### Category: Explorer\explorer-grid-view.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| explorer-grid-view.png | grid view | explorer\explorer-grid-view.png | Handbook |
-
-### Category: Explorer\explorer-list-view.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| explorer-list-view.png | list view | explorer\explorer-list-view.png | Handbook |
-
-### Category: File-operations\file-operations-copy.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-copy.png | copy | file-operations\file-operations-copy.png | Handbook |
-
-### Category: File-operations\file-operations-move.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-move.png | move | file-operations\file-operations-move.png | Handbook |
-
-### Category: File-operations\file-operations-new-file.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-new-file.png | new file | file-operations\file-operations-new-file.png | Handbook |
-
-### Category: File-operations\file-operations-new-folder.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-new-folder.png | new folder | file-operations\file-operations-new-folder.png | Handbook |
-
-### Category: File-operations\file-operations-properties.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-properties.png | properties | file-operations\file-operations-properties.png | Handbook |
-
-### Category: File-operations\file-operations-recycle-bin.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-recycle-bin.png | recycle bin | file-operations\file-operations-recycle-bin.png | Handbook |
-
-### Category: File-operations\file-operations-rename.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| file-operations-rename.png | rename | file-operations\file-operations-rename.png | Handbook |
-
-### Category: Media\media-audio.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| media-audio.png | audio | media\media-audio.png | Handbook |
-
-### Category: Media\media-video.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| media-video.png | video | media\media-video.png | Handbook |
-
-### Category: Menus\menu-edit.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| menu-edit.png | edit | menus\menu-edit.png | Handbook |
-
-### Category: Menus\menu-file.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| menu-file.png | file | menus\menu-file.png | Handbook |
-
-### Category: Menus\menu-help.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| menu-help.png | help | menus\menu-help.png | Handbook |
-
-### Category: Menus\menu-tools.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| menu-tools.png | tools | menus\menu-tools.png | Handbook |
-
-### Category: Menus\menu-view.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| menu-view.png | view | menus\menu-view.png | Handbook |
-
-### Category: Navigation\navigation-address-bar.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| navigation-address-bar.png | address bar | navigation\navigation-address-bar.png | Handbook |
-
-### Category: Navigation\navigation-sidebar.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| navigation-sidebar.png | sidebar | navigation\navigation-sidebar.png | Handbook |
-
-### Category: Navigation\navigation-tabs.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| navigation-tabs.png | tabs | navigation\navigation-tabs.png | Handbook |
-
-### Category: Overview\overview-home.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| overview-home.png | overview home | overview\overview-home.png | Handbook |
-
-### Category: Overview\overview-main-explorer.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| overview-main-explorer.png | overview main explorer | overview\overview-main-explorer.png | Handbook |
-
-### Category: Power-tools\power-tools-batch-rename.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| power-tools-batch-rename.png | batch rename | power-tools\power-tools-batch-rename.png | Handbook |
-
-### Category: Power-tools\power-tools-duplicate-finder.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| power-tools-duplicate-finder.png | duplicate finder | power-tools\power-tools-duplicate-finder.png | Handbook |
-
-### Category: Power-tools\power-tools-hashing.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| power-tools-hashing.png | hashing | power-tools\power-tools-hashing.png | Handbook |
-
-### Category: Power-tools\power-tools-storage-analyzer.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| power-tools-storage-analyzer.png | storage analyzer | power-tools\power-tools-storage-analyzer.png | Handbook |
-
-### Category: Search\search-advanced.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| search-advanced.png | advanced | search\search-advanced.png | Handbook |
-
-### Category: Search\search-filters.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| search-filters.png | filters | search\search-filters.png | Handbook |
-
-### Category: Search\search-main.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| search-main.png | main | search\search-main.png | Handbook |
-
-### Category: Search\search-results.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| search-results.png | results | search\search-results.png | Handbook |
-
-### Category: Settings\settings-appearance.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-appearance.png | appearance | settings\settings-appearance.png | Handbook |
-
-### Category: Settings\settings-files.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-files.png | files | settings\settings-files.png | Handbook |
-
-### Category: Settings\settings-general.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-general.png | general | settings\settings-general.png | Handbook |
-
-### Category: Settings\settings-privacy.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-privacy.png | privacy | settings\settings-privacy.png | Handbook |
-
-### Category: Settings\settings-search.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-search.png | search | settings\settings-search.png | Handbook & README |
-
-### Category: Settings\settings-updates.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| settings-updates.png | updates | settings\settings-updates.png | Handbook |
-
-### Category: Troubleshooting\troubleshooting-empty-search.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| troubleshooting-empty-search.png | empty search | troubleshooting\troubleshooting-empty-search.png | Handbook |
-
-### Category: Troubleshooting\troubleshooting-invalid-path.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| troubleshooting-invalid-path.png | invalid path | troubleshooting\troubleshooting-invalid-path.png | Handbook |
-
-### Category: Viewers\viewer-3d.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-3d.png | 3d | viewers\viewer-3d.png | Handbook |
-
-### Category: Viewers\viewer-ai.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-ai.png | ai | viewers\viewer-ai.png | Handbook |
-
-### Category: Viewers\viewer-archive.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-archive.png | archive | viewers\viewer-archive.png | Handbook |
-
-### Category: Viewers\viewer-cad.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-cad.png | cad | viewers\viewer-cad.png | Handbook |
-
-### Category: Viewers\viewer-code.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-code.png | code | viewers\viewer-code.png | Handbook |
-
-### Category: Viewers\viewer-csv.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-csv.png | csv | viewers\viewer-csv.png | Handbook |
-
-### Category: Viewers\viewer-database.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-database.png | database | viewers\viewer-database.png | Handbook |
-
-### Category: Viewers\viewer-font.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-font.png | font | viewers\viewer-font.png | Handbook |
-
-### Category: Viewers\viewer-hex.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-hex.png | hex | viewers\viewer-hex.png | Handbook |
-
-### Category: Viewers\viewer-image.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-image.png | image | viewers\viewer-image.png | Handbook |
-
-### Category: Viewers\viewer-json.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-json.png | json | viewers\viewer-json.png | Handbook |
-
-### Category: Viewers\viewer-markdown.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-markdown.png | markdown | viewers\viewer-markdown.png | Handbook |
-
-### Category: Viewers\viewer-pdf.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| viewer-pdf.png | pdf | viewers\viewer-pdf.png | Handbook |
-
-### Category: Windows\windows-drives.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| windows-drives.png | drives | windows\windows-drives.png | Handbook |
-
-### Category: Windows\windows-open-with.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| windows-open-with.png | open with | windows\windows-open-with.png | Handbook |
-
-### Category: Windows\windows-properties.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| windows-properties.png | properties | windows\windows-properties.png | Handbook |
-
-### Category: Workspaces\workspace-main.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| workspace-main.png | main | workspaces\workspace-main.png | Handbook |
-
-### Category: Workspaces\workspace-management.png
-
-| Filename | Feature | Category | Where Used |
-|---|---|---|---|
-| workspace-management.png | management | workspaces\workspace-management.png | Handbook |
+## Image Index by Category
+
+### Category: Archives
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `archives-browser.png` | Transparent navigation inside ZIP, 7Z, TAR, and GZ archives without extraction | archives | Archive Studio | Handbook |
+| `archives-create.png` | Dialog for compressing folders with compression ratios and AES-256 encryption | archives | Archive Studio | Handbook |
+| `archives-extract.png` | Multi-threaded extraction dialog with collision resolution (Overwrite, Skip, Auto-Rename) | archives | Archive Studio | Handbook |
+
+### Category: Editors
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `editor-code.png` | Syntax-highlighted script and config file editor with indentation guides | editors | Document Editors | Handbook |
+| `editor-csv.png` | Grid-based tabular editing for spreadsheet data with row insertion and deletion | editors | Document Editors | Handbook |
+| `editor-dirty-state.png` | Visual dirty indicators and confirmation dialog preventing lost edits | editors | Document Editors | Handbook |
+| `editor-json.png` | Collapsible tree and syntax validation with schema-aware formatting | editors | Document Editors | Handbook |
+| `editor-markdown.png` | Side-by-side editing and live rendered preview with full GitHub-flavored markdown | editors | Document Editors | Handbook & README |
+| `editor-text.png` | Minimalist, low-latency text drafting tool with line numbers and find/replace | editors | Document Editors | Handbook |
+
+### Category: Explorer
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `explorer-details-view.png` | Data-rich file listing with metadata columns, sorting arrows, and size formatting | explorer | Explorer Core | Handbook & README |
+| `explorer-gallery-view.png` | Adaptive thumbnail cards for image and video production directories | explorer | Explorer Core | Handbook |
+| `explorer-grid-view.png` | Spacious tile-based view optimal for mixed file and document collections | explorer | Explorer Core | Handbook |
+| `explorer-list-view.png` | Multi-column compact list maximizing visible items per screen viewport | explorer | Explorer Core | Handbook |
+
+### Category: File-operations
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `file-operations-copy.png` | Real-time copy status showing transfer throughput, time remaining, and pause/resume | file-operations | File Operations | Handbook |
+| `file-operations-move.png` | Atomic filesystem relocation across drives with background task tracking | file-operations | File Operations | Handbook |
+| `file-operations-new-file.png` | Instant template-driven new file generator with extension collision detection | file-operations | File Operations | Handbook |
+| `file-operations-new-folder.png` | Instant nested folder creation with sanitization of illegal path characters | file-operations | File Operations | Handbook |
+| `file-operations-properties.png` | Detailed dialog showing timestamps, filesystem attributes, checksums, and permissions | file-operations | File Operations | Handbook |
+| `file-operations-recycle-bin.png` | Two-stage deletion interface with instant rollback and permanent purge options | file-operations | File Operations | Handbook |
+| `file-operations-rename.png` | Precise filename renaming preserving extension integrity and real-time validation | file-operations | File Operations | Handbook |
+
+### Category: Hero
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `hero-editor.png` | High-impact product showcase demonstrating live editing workflow | hero | Hero Showcase | Handbook & README |
+| `hero-explorer.png` | Official hero image displaying dense navigation, status bars, and theme styling | hero | Hero Showcase | Handbook & README |
+| `hero-search.png` | Visual highlight of instantaneous indexed file discovery and filtering | hero | Hero Showcase | Handbook & README |
+| `hero-viewer.png` | Showcase of zero-dependency preview rendering without launching external apps | hero | Hero Showcase | Handbook & README |
+| `hero-workspace.png` | Split-view multi-pane workspace layout for high-throughput productivity | hero | Hero Showcase | Handbook & README |
+
+### Category: Media
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `media-audio.png` | Integrated playback for MP3, WAV, FLAC, and OGG with scrubber and duration tags | media | Media Suite | Handbook |
+| `media-video.png` | Smooth video player for MP4, WebM, and MKV with frame-accurate timeline scrubbing | media | Media Suite | Handbook |
+
+### Category: Menus
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `menu-edit.png` | Standard keyboard shortcuts, clipboard actions, select all, and batch selection tools | menus | Menu Systems | Handbook |
+| `menu-file.png` | Primary entry point for new items, folder tabs, window splits, and exit workflows | menus | Menu Systems | Handbook |
+| `menu-help.png` | Quick links to handbook, keyboard shortcut cheat-sheet, update check, and about modal | menus | Menu Systems | Handbook |
+| `menu-tools.png` | Direct launchpad for Batch Rename, Storage Analyzer, Hash Verification, and Duplicate Finder | menus | Menu Systems | Handbook |
+| `menu-view.png` | Layout switcher, sort criteria toggles, hidden files display, and compact mode selector | menus | Menu Systems | Handbook |
+
+### Category: Navigation
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `navigation-address-bar.png` | Clickable path segments, direct path editing, and auto-completing history suggestions | navigation | Navigation | Handbook |
+| `navigation-sidebar.png` | Quick access pins, physical mounted storage volumes, network shortcuts, and bookmarks | navigation | Navigation | Handbook |
+| `navigation-tabs.png` | Draggable tabs with pinned states, close buttons, and background session restoration | navigation | Navigation | Handbook |
+
+### Category: Overview
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `overview-home.png` | Drive partition breakdown, recent files list, and pinned folder launchers | overview | Overview | Handbook |
+| `overview-main-explorer.png` | Complete window view with sidebar, navigation bar, file table, and status bar | overview | Overview | Handbook |
+
+### Category: Power-tools
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `power-tools-batch-rename.png` | Multi-file renaming engine with search/replace, regex support, number sequences, and live diff | power-tools | Power Tools | Handbook & README |
+| `power-tools-duplicate-finder.png` | Hash-based scan identifying identical duplicate files across selected directory trees | power-tools | Power Tools | Handbook |
+| `power-tools-hashing.png` | Instant calculation and clipboard comparison for MD5, SHA-1, SHA-256, and SHA-512 | power-tools | Power Tools | Handbook |
+| `power-tools-storage-analyzer.png` | Treemap and folder breakdown revealing disk consumption and space hogs | power-tools | Power Tools | Handbook |
+
+### Category: Search
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `search-advanced.png` | Precision queries filtering by file size thresholds, date ranges, attributes, and regex | search | Search Engine | Handbook |
+| `search-filters.png` | One-click chips for Documents, Images, Audio, Archives, and Code files | search | Search Engine | Handbook |
+| `search-main.png` | Real-time debounced query input with instant highlighting in the results view | search | Search Engine | Handbook |
+| `search-results.png` | Instantaneous search result listing with path context and direct jump actions | search | Search Engine | Handbook & README |
+
+### Category: Settings
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `settings-appearance.png` | Theme switcher (Dark / Light / System), accent color picker, and UI density controls | settings | Configuration | Handbook & README |
+| `settings-files.png` | Confirmation dialog toggles, hidden files visibility, and default double-click actions | settings | Configuration | Handbook |
+| `settings-general.png` | Startup behaviors, language locale, hardware acceleration, and tray minimization | settings | Configuration | Handbook |
+| `settings-privacy.png` | Strict local-only privacy toggles, zero-tracking affirmation, and cache purgers | settings | Configuration | Handbook |
+| `settings-search.png` | Scope exclusions, hidden folder indexing toggles, and memory limit tuning | settings | Configuration | Handbook & README |
+| `settings-updates.png` | Cryptographic signature checking for new releases with manual check triggers | settings | Configuration | Handbook |
+
+### Category: Troubleshooting
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `troubleshooting-empty-search.png` | Informative empty search UI offering search syntax suggestions and filter resets | troubleshooting | Troubleshooting | Handbook |
+| `troubleshooting-invalid-path.png` | Clear diagnostics banner when navigating to missing, unplugged, or restricted drives | troubleshooting | Troubleshooting | Handbook |
+
+### Category: Viewers
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `viewer-3d.png` | Interactive 3D model viewer for OBJ and STL assets with camera rotate and zoom | viewers | Universal Viewers | Handbook |
+| `viewer-ai.png` | Architecture and layer metadata inspector for ONNX and safetensors files | viewers | Universal Viewers | Handbook |
+| `viewer-archive.png` | Quick peek table displaying files, directories, and compression metrics in archives | viewers | Universal Viewers | Handbook |
+| `viewer-cad.png` | Vector wireframe rendering for DXF files with layer visibility toggles | viewers | Universal Viewers | Handbook |
+| `viewer-code.png` | Fast syntax-highlighted reader for over 50 programming and markup languages | viewers | Universal Viewers | Handbook |
+| `viewer-csv.png` | Virtual-scroll grid displaying huge CSV and TSV files with instant column sorting | viewers | Universal Viewers | Handbook |
+| `viewer-database.png` | Schema explorer and table browser for SQLite databases with custom SQL query runner | viewers | Universal Viewers | Handbook |
+| `viewer-font.png` | Glyph waterfall preview and metadata card for TTF, OTF, and WOFF font files | viewers | Universal Viewers | Handbook |
+| `viewer-hex.png` | Offset, raw byte, and ASCII dual-column inspector for executables and unknown blobs | viewers | Universal Viewers | Handbook |
+| `viewer-image.png` | Full-resolution image preview supporting PNG, JPG, WebP, SVG, and RAW camera formats | viewers | Universal Viewers | Handbook |
+| `viewer-json.png` | Colorized syntax tree with node collapse, search-in-json, and type annotation tags | viewers | Universal Viewers | Handbook |
+| `viewer-markdown.png` | Beautifully styled document preview with tables, task lists, code blocks, and links | viewers | Universal Viewers | Handbook & README |
+| `viewer-pdf.png` | Zero-latency multipage PDF reader with continuous scroll, zoom controls, and thumbnails | viewers | Universal Viewers | Handbook |
+
+### Category: Windows
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `windows-drives.png` | Accurate Windows volume meter with NTFS/FAT32 labels and free space indicators | windows | Windows Integration | Handbook |
+| `windows-open-with.png` | Handshake dialog selecting external Windows system applications or Flux defaults | windows | Windows Integration | Handbook |
+| `windows-properties.png` | System properties editor showing DOS attributes (Hidden, Read-Only), ACLs, and dates | windows | Windows Integration | Handbook |
+
+### Category: Workspaces
+
+| Filename | Description | Category | Feature | Where Used |
+|---|---|---|---|---|
+| `workspace-main.png` | Two independent filesystem panes enabling high-speed drag-and-drop comparison | workspaces | Workspace Studio | Handbook & README |
+| `workspace-management.png` | Quick switcher restoring tab layouts, active directories, and dual-pane configurations | workspaces | Workspace Studio | Handbook |
